@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\EpicGames\\Log\\Source\\Log\\Log.Build.cs",
+		"D:\\EpicGames\\Log\\Source\\Log.Target.cs",
+		"D:\\EpicGames\\Log\\Source\\LogEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

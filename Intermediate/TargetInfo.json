@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Log",
+			"Path": "..\\Source\\Log.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LogEditor",
+			"Path": "..\\Source\\LogEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

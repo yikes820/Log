@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Log.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Log.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LogEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Log">
+      <UniqueIdentifier>{35C125F9-B50C-3B59-A925-16C9FFAD5137}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Log\Log.Build.cs">
+      <Filter>Source\Log</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Log\Log.cpp">
+      <Filter>Source\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Log\Log.h">
+      <Filter>Source\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Log\MyActor.cpp">
+      <Filter>Source\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Log\MyActor.h">
+      <Filter>Source\Log</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
